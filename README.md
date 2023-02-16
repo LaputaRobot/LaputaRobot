@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaputaRobot
 - 👀 I’m interested in SDN, JAVA, Spring
 - 📫 How to reach me 
-  - Blog: https://blog.hellook.top/
+  - Blog: https://www.laputar.site/
   - Github: https://github.com/LaputaRobot
   - bilibili: https://space.bilibili.com/89559046
 <!---
